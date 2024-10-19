@@ -1,0 +1,643 @@
+district_name,state_name,gini_district
+Kupwara,Jammu & Kashmir,.17262366
+Badgam,Jammu & Kashmir,.16420601
+Punch,Jammu & Kashmir,.21865724
+Rajouri,Jammu & Kashmir,.19327897
+Kathua,Jammu & Kashmir,.19845584
+Baramula,Jammu & Kashmir,.20769764
+Bandipore,Jammu & Kashmir,.26181665
+Ganderbal,Jammu & Kashmir,.19692208
+Pulwama,Jammu & Kashmir,.25200614
+Anantnag,Jammu & Kashmir,.23405088
+Kulgam,Jammu & Kashmir,.18480666
+Ramban,Jammu & Kashmir,.1880005
+Kishtwar,Jammu & Kashmir,.16593333
+Udhampur,Jammu & Kashmir,.22966367
+Reasi,Jammu & Kashmir,.21789303
+Jammu,Jammu & Kashmir,.23522666
+Samba,Jammu & Kashmir,.18208663
+Chamba,Himachal Prades,.19509654
+Kangra,Himachal Prades,.30110899
+Lahul & Spiti,Himachal Prades,.27499625
+Kullu,Himachal Prades,.2425258
+Mandi,Himachal Prades,.23779653
+Hamirpur,Himachal Prades,.26601377
+Una,Himachal Prades,.25283152
+Bilaspur,Himachal Prades,.2460129
+Solan,Himachal Prades,.28720865
+Sirmaur,Himachal Prades,.32273003
+Shimla,Himachal Prades,.27342713
+Kinnaur,Himachal Prades,.30288497
+Gurdaspur,Punjab,.22984892
+Kapurthala,Punjab,.3121956
+Jalandhar,Punjab,.26436105
+Hoshiarpur,Punjab,.21032479
+Shahid Bhagat Singh Nagar,Punjab,.18657982
+Fatehgarh Sahib,Punjab,.29181227
+Ludhiana,Punjab,.228534
+Moga,Punjab,.17796239
+Firozpur,Punjab,.14728653
+Muktsar,Punjab,.2772674
+Faridkot,Punjab,.22863646
+Bhatinda,Punjab,.20359147
+Mansa,Punjab,.19443731
+Patiala,Punjab,.24786767
+Amritsar,Punjab,.28435239
+Tarn Taran,Punjab,.22545396
+Rupnagar,Punjab,.20092686
+Sahibzada Ajit Singh Nagar,Punjab,.25221613
+Sangrur,Punjab,.20895259
+Barnala,Punjab,.159366
+Pathankot,Punjab,.18274347
+Fazilka,Punjab,.18414862
+Chandigarh,Chandigarh,.26579061
+Uttarkashi,Uttarakhand,.23080868
+Chamoli,Uttarakhand,.27122167
+Rudraprayag,Uttarakhand,.27001533
+Tehri Garhwal,Uttarakhand,.19821477
+Dehradun,Uttarakhand,.20588842
+Garhwal,Uttarakhand,.3390446
+Pithoragarh,Uttarakhand,.26111063
+Almora,Uttarakhand,.21932593
+Champawat,Uttarakhand,.3112196
+Nainital,Uttarakhand,.21366408
+Udham Singh Nagar,Uttarakhand,.25572473
+Hardwar,Uttarakhand,.21962462
+Panchkula,Haryana,.17202264
+Ambala,Haryana,.27044773
+Yamunanagar,Haryana,.21103269
+Kurukshetra,Haryana,.25594154
+Kaithal,Haryana,.21240032
+Karnal,Haryana,.22191517
+Panipat,Haryana,.18370478
+Sonipat,Haryana,.16787346
+Jind,Haryana,.20929889
+Fatehabad,Haryana,.26322073
+Sirsa,Haryana,.21520042
+Hisar,Haryana,.20923474
+Bhiwani,Haryana,.20804422
+Rohtak,Haryana,.25072718
+Jhajjar,Haryana,.28859153
+Mahendragarh,Haryana,.27340564
+Rewari,Haryana,.24539904
+Gurgaon,Haryana,.15435609
+Mewat,Haryana,.15864077
+Faridabad,Haryana,.24584715
+Palwal,Haryana,.19625367
+North West,Delhi,.20997389
+North,Delhi,.15684851
+North East,Delhi,.12205424
+South West,Delhi,.25105867
+Sri Ganganagar,Rajasthan,.2069705
+Hanumangarh,Rajasthan,.21203195
+Churu,Rajasthan,.22486217
+Jhunjhunun,Rajasthan,.20303255
+Alwar,Rajasthan,.23749942
+Bharatpur,Rajasthan,.2383858
+Dhaulpur,Rajasthan,.2340111
+Karauli,Rajasthan,.17665961
+Sawai Madhopur,Rajasthan,.21550041
+Dausa,Rajasthan,.22170557
+Jaipur,Rajasthan,.37513933
+Sikar,Rajasthan,.22219795
+Nagaur,Rajasthan,.23958875
+Ajmer,Rajasthan,.19676241
+Tonk,Rajasthan,.19504982
+Bundi,Rajasthan,.18508178
+Bhilwara,Rajasthan,.17127934
+Rajsamand,Rajasthan,.25606832
+Dungarpur,Rajasthan,.33384654
+Banswara,Rajasthan,.25623319
+Chittaurgarh,Rajasthan,.22843648
+Kota,Rajasthan,.1766955
+Baran,Rajasthan,.21384624
+Jhalawar,Rajasthan,.25090405
+Udaipur,Rajasthan,.27034014
+Pratapgarh,Rajasthan,.3080312
+Saharanpur,Uttar Pradesh,.34122047
+Muzaffarnagar,Uttar Pradesh,.24794023
+Bijnor,Uttar Pradesh,.27056375
+Moradabad,Uttar Pradesh,.2115532
+Rampur,Uttar Pradesh,.29281631
+Jyotiba Phule Nagar,Uttar Pradesh,.24276143
+Meerut,Uttar Pradesh,.22197752
+Baghpat,Uttar Pradesh,.29749003
+Ghaziabad,Uttar Pradesh,.18123478
+Gautam Buddha Nagar,Uttar Pradesh,.205608
+Bulandshahr,Uttar Pradesh,.17632303
+Aligarh,Uttar Pradesh,.19228123
+Mahamaya Nagar,Uttar Pradesh,.18667561
+Mathura,Uttar Pradesh,.26017356
+Agra,Uttar Pradesh,.22717011
+Firozabad,Uttar Pradesh,.21002841
+Mainpuri,Uttar Pradesh,.25174582
+Budaun,Uttar Pradesh,.25397694
+Bareilly,Uttar Pradesh,.27479491
+Pilibhit,Uttar Pradesh,.17775849
+Shahjahanpur,Uttar Pradesh,.28064683
+Kheri,Uttar Pradesh,.2418451
+Sitapur,Uttar Pradesh,.21660011
+Hardoi,Uttar Pradesh,.2210018
+Unnao,Uttar Pradesh,.24013603
+Lucknow,Uttar Pradesh,.24090567
+Rae Bareli,Uttar Pradesh,.2103062
+Farrukhabad,Uttar Pradesh,.21394844
+Kannauj,Uttar Pradesh,.274656
+Etawah,Uttar Pradesh,.21259467
+Auraiya,Uttar Pradesh,.20602813
+Kanpur Dehat,Uttar Pradesh,.22350886
+Kanpur Nagar,Uttar Pradesh,.22019981
+Jalaun,Uttar Pradesh,.25009367
+Jhansi,Uttar Pradesh,.19381191
+Lalitpur,Uttar Pradesh,.17817655
+Hamirpur,Uttar Pradesh,.16301493
+Mahoba,Uttar Pradesh,.12818252
+Banda,Uttar Pradesh,.20924015
+Chitrakoot,Uttar Pradesh,.23185523
+Fatehpur,Uttar Pradesh,.20042844
+Pratapgarh,Uttar Pradesh,.24565867
+Kaushambi,Uttar Pradesh,.25729242
+Allahabad,Uttar Pradesh,.28457481
+Bara Banki,Uttar Pradesh,.26925933
+Faizabad,Uttar Pradesh,.22664051
+Ambedkar Nagar,Uttar Pradesh,.25794509
+Sultanpur,Uttar Pradesh,.27053112
+Bahraich,Uttar Pradesh,.22858258
+Shrawasti,Uttar Pradesh,.26358649
+Balrampur,Uttar Pradesh,.19470835
+Gonda,Uttar Pradesh,.23148538
+Siddharthnagar,Uttar Pradesh,.23026325
+Basti,Uttar Pradesh,.2635133
+Sant Kabir Nagar,Uttar Pradesh,.18767548
+Maharajganj,Uttar Pradesh,.1964283
+Gorakhpur,Uttar Pradesh,.16712248
+Kushinagar,Uttar Pradesh,.18201831
+Deoria,Uttar Pradesh,.19682015
+Azamgarh,Uttar Pradesh,.22638366
+Mau,Uttar Pradesh,.18606474
+Ballia,Uttar Pradesh,.24528307
+Jaunpur,Uttar Pradesh,.19548936
+Ghazipur,Uttar Pradesh,.20195875
+Chandauli,Uttar Pradesh,.23166676
+Varanasi,Uttar Pradesh,.24174784
+Sant Ravidas Nagar(Bhadohi),Uttar Pradesh,.22045943
+Mirzapur,Uttar Pradesh,.21616168
+Sonbhadra,Uttar Pradesh,.20099366
+Etah,Uttar Pradesh,.16122936
+Kanshiram Nagar,Uttar Pradesh,.14705144
+Pashchim Champaran,Bihar,.19436468
+Purba Champaran,Bihar,.2155257
+Sheohar,Bihar,.19593275
+Sitamarhi,Bihar,.23140898
+Madhubani,Bihar,.16289237
+Supaul,Bihar,.20446795
+Araria,Bihar,.20396464
+Kishanganj,Bihar,.18872711
+Purnia,Bihar,.19842485
+Katihar,Bihar,.21828677
+Madhepura,Bihar,.2209657
+Saharsa,Bihar,.19869553
+Darbhanga,Bihar,.17281173
+Muzaffarpur,Bihar,.23853661
+Gopalganj,Bihar,.2084748
+Siwan,Bihar,.16877109
+Saran,Bihar,.21692182
+Vaishali,Bihar,.16927364
+Samastipur,Bihar,.19096152
+Begusarai,Bihar,.19962633
+Khagaria,Bihar,.21344675
+Bhagalpur,Bihar,.2192812
+Banka,Bihar,.20199548
+Munger,Bihar,.23809913
+Lakhisarai,Bihar,.19874282
+Sheikhpura,Bihar,.18338954
+Nalanda,Bihar,.22887528
+Patna,Bihar,.23817348
+Bhojpur,Bihar,.22153883
+Buxar,Bihar,.2224426
+Kaimur (Bhabua),Bihar,.2785542
+Rohtas,Bihar,.28788543
+Aurangabad,Bihar,.22763585
+Gaya,Bihar,.27873945
+Nawada,Bihar,.20195417
+Jamui,Bihar,.21963543
+Jehanabad,Bihar,.22650805
+Arwal,Bihar,.21435519
+North District,Sikkim,.19588763
+West District,Sikkim,.23479028
+South District,Sikkim,.25231317
+East District,Sikkim,.2404512
+Tawang,Arunachal Pradesh,.21541956
+West Kameng,Arunachal Pradesh,.26009199
+East Kameng,Arunachal Pradesh,.23773564
+Papum Pare,Arunachal Pradesh,.2531763
+Upper Subansiri,Arunachal Pradesh,.25035498
+West Siang,Arunachal Pradesh,.20479359
+East Siang,Arunachal Pradesh,.2680603
+Upper Siang,Arunachal Pradesh,.16213305
+Changlang,Arunachal Pradesh,.20996729
+Tirap,Arunachal Pradesh,.32458067
+Lower Subansiri,Arunachal Pradesh,.22805925
+Kurung Kumey,Arunachal Pradesh,.2319117
+Dibang Valley,Arunachal Pradesh,.18702634
+Lower Dibang Valley,Arunachal Pradesh,.26409256
+Lohit,Arunachal Pradesh,.28497234
+Anjaw,Arunachal Pradesh,.27545831
+Mon,Nagaland,.23504943
+Mokokchung,Nagaland,.25337684
+Zunheboto,Nagaland,.21306513
+Wokha,Nagaland,.2140737
+Dimapur,Nagaland,.27512732
+Phek,Nagaland,.20795144
+Tuensang,Nagaland,.17634434
+Longleng,Nagaland,.15883075
+Kiphire,Nagaland,.21129034
+Kohima,Nagaland,.24130324
+Peren,Nagaland,.30715397
+Senapati,Manipur,.21938455
+Tamenglong,Manipur,.18144961
+Churachandpur,Manipur,.26542777
+Bishnupur,Manipur,.21882956
+Thoubal,Manipur,.2301994
+Imphal West,Manipur,.20541845
+Imphal East,Manipur,.19778958
+Ukhrul,Manipur,.24216217
+Chandel,Manipur,.19818868
+Mamit,Mizoram,.278256
+Kolasib,Mizoram,.25201058
+Aizwal,Mizoram,.28789711
+Champhai,Mizoram,.22320689
+Serchhip,Mizoram,.23127107
+Lunglei,Mizoram,.28788903
+Lawngtlai,Mizoram,.30005088
+Saiha,Mizoram,.20377764
+West Tripura,Tripura,.20823535
+South Tripura,Tripura,.20220225
+Dhalai,Tripura,.21905351
+North Tripura,Tripura,.21470712
+West Garo Hills,Meghalaya,.18408842
+East Garo Hills,Meghalaya,.14499253
+South Garo Hills,Meghalaya,.22779822
+West Khasi Hills,Meghalaya,.27229223
+Ribhoi,Meghalaya,.22343552
+East Khasi Hills,Meghalaya,.24807912
+Jaintia Hills,Meghalaya,.26933649
+Kokrajhar,Assam,.18870883
+Dhubri,Assam,.18354134
+Goalpara,Assam,.17698464
+Barpeta,Assam,.21201394
+Morigaon,Assam,.15968679
+Nagaon,Assam,.17708674
+Sonitpur,Assam,.32545134
+Lakhimpur,Assam,.20577294
+Dhemaji,Assam,.1381008
+Tinsukia,Assam,.2395699
+Dibrugarh,Assam,.299723
+Sivasagar,Assam,.20672417
+Jorhat,Assam,.21979928
+Golaghat,Assam,.28335091
+Karbi Anglong,Assam,.17306064
+Dima Hasao,Assam,.11343388
+Cachar,Assam,.2456363
+Karimganj,Assam,.20507577
+Hailakandi,Assam,.19442409
+Bongaigaon,Assam,.19643401
+Chirang,Assam,.17238294
+Kamrup,Assam,.21942246
+Kamrup Metropolitan,Assam,.2031263
+Nalbari,Assam,.19118609
+Baksa,Assam,.22876166
+Darrang,Assam,.18197086
+Udalguri,Assam,.18184881
+Darjiling,West Bengal,.26836535
+Jalpaiguri,West Bengal,.21824285
+Koch Bihar,West Bengal,.17308728
+Uttar Dinajpur,West Bengal,.17882712
+Dakshin Dinajpur,West Bengal,.27529341
+Maldah,West Bengal,.22652251
+Murshidabad,West Bengal,.18551709
+Birbhum,West Bengal,.18700506
+Barddhaman,West Bengal,.2440168
+Nadia,West Bengal,.24640012
+North Twenty Four Parganas,West Bengal,.28607669
+Hugli,West Bengal,.22843316
+Bankura,West Bengal,.19998167
+Puruliya,West Bengal,.22891685
+Haora,West Bengal,.21858674
+South Twenty Four Parganas,West Bengal,.18923908
+Paschim Medinipur,West Bengal,.24024023
+Purba Medinipur,West Bengal,.20814046
+Garhwa,Jharkhand,.20414509
+Chatra,Jharkhand,.2415565
+Kodarma,Jharkhand,.20524168
+Giridih,Jharkhand,.25538498
+Deoghar,Jharkhand,.20558025
+Godda,Jharkhand,.23849148
+Sahibganj,Jharkhand,.28327465
+Pakur,Jharkhand,.20857343
+Dhanbad,Jharkhand,.2409966
+Bokaro,Jharkhand,.25451833
+Lohardaga,Jharkhand,.22796528
+Purbi Singhbhum,Jharkhand,.35118377
+Palamu,Jharkhand,.2306892
+Latehar,Jharkhand,.22329339
+Hazaribagh,Jharkhand,.20696324
+Ramgarh,Jharkhand,.17942265
+Dumka,Jharkhand,.21413399
+Jamtara,Jharkhand,.27356806
+Ranchi,Jharkhand,.25144407
+Khunti,Jharkhand,.19597961
+Gumla,Jharkhand,.22440645
+Simdega,Jharkhand,.20535164
+Pashchimi Singhbhum,Jharkhand,.31412581
+Saraikela-Kharsawan,Jharkhand,.24226339
+Bargarh,Odisha,.23006102
+Jharsuguda,Odisha,.19958571
+Sambalpur,Odisha,.21619996
+Debagarh,Odisha,.13025463
+Sundargarh,Odisha,.23875305
+Kendujhar,Odisha,.31237158
+Mayurbhanj,Odisha,.21979009
+Baleshwar,Odisha,.21218055
+Bhadrak,Odisha,.1548439
+Kendrapara,Odisha,.17241763
+Jagatsinghapur,Odisha,.18532264
+Cuttack,Odisha,.19357347
+Jajapur,Odisha,.19419385
+Dhenkanal,Odisha,.19341128
+Anugul,Odisha,.23087479
+Nayagarh,Odisha,.23014829
+Khordha,Odisha,.25815645
+Puri,Odisha,.21647768
+Ganjam,Odisha,.26523444
+Gajapati,Odisha,.21248008
+Kandhamal,Odisha,.27866361
+Baudh,Odisha,.22848929
+Subarnapur,Odisha,.20478091
+Balangir,Odisha,.25914699
+Nuapada,Odisha,.14612609
+Kalahandi,Odisha,.18585311
+Rayagada,Odisha,.20929977
+Nabarangapur,Odisha,.21044867
+Koraput,Odisha,.21777248
+Malkangiri,Odisha,.28392139
+Koriya,Chattisgarh,.13354908
+Surguja,Chattisgarh,.17936738
+Jashpur,Chattisgarh,.27433848
+Raigarh,Chattisgarh,.25007558
+Korba,Chattisgarh,.21160375
+Janjgir-Champa,Chattisgarh,.23391092
+Bilaspur,Chattisgarh,.31269276
+Kabeerdham,Chattisgarh,.2347859
+Rajnandgaon,Chattisgarh,.20965639
+Durg,Chattisgarh,.26399329
+Raipur,Chattisgarh,.26488581
+Mahasamund,Chattisgarh,.29154879
+Dhamtari,Chattisgarh,.34046516
+Uttar Bastar Kanker,Chattisgarh,.21446101
+Bastar,Chattisgarh,.36688867
+Narayanpur,Chattisgarh,.27656296
+Dakshin Bastar Dantewada,Chattisgarh,.16446038
+Bijapur,Chattisgarh,.1969815
+Balodabazar,Chattisgarh,.37062043
+Gariyaband,Chattisgarh,.2363342
+Kondagaon,Chattisgarh,.45519659
+Sukama,Chattisgarh,.18663192
+Bemetara,Chattisgarh,.23995264
+Balod,Chattisgarh,.2068003
+Mungeli,Chattisgarh,.19509637
+Surajpur,Chattisgarh,.1936498
+Balrampur,Chattisgarh,.21427333
+Sheopur,Madhya Pradesh,.20066442
+Morena,Madhya Pradesh,.20326054
+Bhind,Madhya Pradesh,.23804715
+Gwalior,Madhya Pradesh,.17440554
+Datia,Madhya Pradesh,.1872768
+Shivpuri,Madhya Pradesh,.21846901
+Tikamgarh,Madhya Pradesh,.16398191
+Chhatarpur,Madhya Pradesh,.20625083
+Panna,Madhya Pradesh,.19530134
+Sagar,Madhya Pradesh,.22171278
+Damoh,Madhya Pradesh,.19450875
+Satna,Madhya Pradesh,.24203213
+Rewa,Madhya Pradesh,.23105004
+Umaria,Madhya Pradesh,.17632642
+Neemuch,Madhya Pradesh,.20622832
+Mandsaur,Madhya Pradesh,.24652484
+Ratlam,Madhya Pradesh,.22871961
+Ujjain,Madhya Pradesh,.14919743
+Shajapur,Madhya Pradesh,.16473991
+Dewas,Madhya Pradesh,.23024033
+Dhar,Madhya Pradesh,.20779268
+Indore,Madhya Pradesh,.21088722
+Khargone (West Nimar),Madhya Pradesh,.21539517
+Barwani,Madhya Pradesh,.15693291
+Rajgarh,Madhya Pradesh,.1682608
+Vidisha,Madhya Pradesh,.20592788
+Bhopal,Madhya Pradesh,.18895541
+Sehore,Madhya Pradesh,.18300954
+Raisen,Madhya Pradesh,.22359772
+Betul,Madhya Pradesh,.21986049
+Harda,Madhya Pradesh,.17120287
+Hoshangabad,Madhya Pradesh,.23564821
+Katni,Madhya Pradesh,.22182821
+Jabalpur,Madhya Pradesh,.20694697
+Narsimhapur,Madhya Pradesh,.22504714
+Dindori,Madhya Pradesh,.23553048
+Mandla,Madhya Pradesh,.2495342
+Chhindwara,Madhya Pradesh,.20426111
+Seoni,Madhya Pradesh,.25575742
+Balaghat,Madhya Pradesh,.2623722
+Guna,Madhya Pradesh,.21873327
+Ashoknagar,Madhya Pradesh,.16282937
+Shahdol,Madhya Pradesh,.2187071
+Anuppur,Madhya Pradesh,.28933668
+Sidhi,Madhya Pradesh,.17331678
+Singrauli,Madhya Pradesh,.18310829
+Jhabua,Madhya Pradesh,.23185059
+Alirajpur,Madhya Pradesh,.17569165
+Khandwa (East Nimar),Madhya Pradesh,.19051658
+Burhanpur,Madhya Pradesh,.18945216
+Kachchh,nan,.2315053
+Banas Kantha,nan,.24476874
+Patan,nan,.2613211
+Mahesana,nan,.24618326
+Sabar Kantha,nan,.27662486
+Gandhinagar,nan,.24575821
+Ahmadabad,nan,.27994838
+Surendranagar,nan,.20376675
+Rajkot,nan,.16357273
+Jamnagar,nan,.23714583
+Porbandar,nan,.15188645
+Junagadh,nan,.18219502
+Amreli,nan,.1768031
+Bhavnagar,nan,.17965125
+Anand,nan,.22460897
+Kheda,nan,.24422359
+Panch Mahals,nan,.2292954
+Dohad,nan,.23941851
+Vadodara,nan,.21286985
+Narmada,nan,.21215568
+Bharuch,nan,.27168775
+The Dangs,nan,.13857928
+Navsari,nan,.2457201
+Valsad,nan,.24111348
+Surat,nan,.34186918
+Tapi,nan,.24782206
+Diu,Daman & Diu,.14917074
+Daman,Daman & Diu,.21692961
+Nandurbar,Maharashtra,.28265384
+Dhule,Maharashtra,.31242394
+Jalgaon,Maharashtra,.24424618
+Buldana,Maharashtra,.20315452
+Akola,Maharashtra,.15453739
+Washim,Maharashtra,.16224745
+Amravati,Maharashtra,.24616894
+Wardha,Maharashtra,.2318463
+Nagpur,Maharashtra,.27270707
+Bhandara,Maharashtra,.21458906
+Gondiya,Maharashtra,.22317463
+Gadchiroli,Maharashtra,.29083672
+Chandrapur,Maharashtra,.22422567
+Yavatmal,Maharashtra,.25047436
+Nanded,Maharashtra,.22199002
+Hingoli,Maharashtra,.20991468
+Parbhani,Maharashtra,.2682642
+Jalna,Maharashtra,.2483643
+Aurangabad,Maharashtra,.22987199
+Nashik,Maharashtra,.26234168
+Thane,Maharashtra,.28151637
+Raigarh,Maharashtra,.23524672
+Pune,Maharashtra,.36958855
+Ahmadnagar,Maharashtra,.26690021
+Bid,Maharashtra,.19398618
+Latur,Maharashtra,.26531169
+Osmanabad,Maharashtra,.28831488
+Solapur,Maharashtra,.26146361
+Satara,Maharashtra,.28741065
+Ratnagiri,Maharashtra,.29599661
+Sindhudurg,Maharashtra,.2429163
+Kolhapur,Maharashtra,.25054106
+Sangli,Maharashtra,.25180885
+Srikakulam,Andhra Pradesh,.35952115
+Vizianagaram,Andhra Pradesh,.25660616
+Visakhapatnam,Andhra Pradesh,.22800596
+East Godavari,Andhra Pradesh,.26604483
+West Godavari,Andhra Pradesh,.19875133
+Krishna,Andhra Pradesh,.25764504
+Guntur,Andhra Pradesh,.2163229
+Prakasam,Andhra Pradesh,.21615277
+Sri Potti Sriramulu Nellore,Andhra Pradesh,.2310732
+Y.S.R. (Cuddapah),Andhra Pradesh,.24334258
+Kurnool,Andhra Pradesh,.22902521
+Anantapur,Andhra Pradesh,.22703059
+Chittoor,Andhra Pradesh,.26173431
+Belgaum,Karnataka,.19792119
+Bagalkot,Karnataka,.19695231
+Bijapur,Karnataka,.17746733
+Bidar,Karnataka,.15054469
+Raichur,Karnataka,.18837063
+Koppal,Karnataka,.23183261
+Gadag,Karnataka,.17729676
+Dharwad,Karnataka,.16973047
+Uttara Kannada,Karnataka,.22854246
+Haveri,Karnataka,.18667576
+Bellary,Karnataka,.18921863
+Chitradurga,Karnataka,.17766316
+Davanagere,Karnataka,.23917121
+Shimoga,Karnataka,.23316221
+Udupi,Karnataka,.17344972
+Chikmagalur,Karnataka,.38630176
+Tumkur,Karnataka,.1893933
+Bangalore,Karnataka,.1846471
+Mandya,Karnataka,.24175616
+Hassan,Karnataka,.18645349
+Dakshina Kannada,Karnataka,.16119407
+Kodagu,Karnataka,.19732295
+Mysore,Karnataka,.22022893
+Chamarajanagar,Karnataka,.24873501
+Gulbarga,Karnataka,.17319703
+Yadgir,Karnataka,.13779405
+Kolar,Karnataka,.1847225
+Chikkaballapura,Karnataka,.21428511
+Bangalore Rural,Karnataka,.20984112
+Ramanagara,Karnataka,.26272646
+North Goa,Goa,.23687391
+South Goa,Goa,.22097142
+Lakshadweep,Lakshadweep,.28964004
+Kasaragod,Kerala,.2234268
+Kannur,Kerala,.27856919
+Wayanad,Kerala,.27771732
+Kozhikode,Kerala,.25853825
+Malappuram,Kerala,.25169981
+Palakkad,Kerala,.27497336
+Thrissur,Kerala,.23706302
+Ernakulam,Kerala,.30763993
+Idukki,Kerala,.29546192
+Kottayam,Kerala,.31568614
+Alappuzha,Kerala,.26459691
+Pathanamthitta,Kerala,.28891689
+Kollam,Kerala,.25372237
+Thiruvananthapuram,Kerala,.33988672
+Thiruvallur,Tamil Nadu,.24489033
+Kancheepuram,Tamil Nadu,.26579538
+Vellore,Tamil Nadu,.24074131
+Tiruvannamalai,Tamil Nadu,.21455806
+Viluppuram,Tamil Nadu,.19564615
+Salem,Tamil Nadu,.24083595
+Namakkal,Tamil Nadu,.21610735
+Erode,Tamil Nadu,.21199502
+The Nilgiris,Tamil Nadu,.1250013
+Dindigul,Tamil Nadu,.22056873
+Karur,Tamil Nadu,.42443553
+Tiruchirappalli,Tamil Nadu,.25003818
+Perambalur,Tamil Nadu,.23601848
+Ariyalur,Tamil Nadu,.26834708
+Cuddalore,Tamil Nadu,.20111877
+Nagapattinam,Tamil Nadu,.32405025
+Thiruvarur,Tamil Nadu,.25331321
+Thanjavur,Tamil Nadu,.29688576
+Pudukkottai,Tamil Nadu,.20267889
+Sivaganga,Tamil Nadu,.21304707
+Madurai,Tamil Nadu,.20530801
+Theni,Tamil Nadu,.26566476
+Virudhunagar,Tamil Nadu,.24097416
+Ramanathapuram,Tamil Nadu,.25248262
+Thoothukkudi,Tamil Nadu,.23407699
+Tirunelveli,Tamil Nadu,.2198236
+Kanniyakumari,Tamil Nadu,.17887832
+Dharmapuri,Tamil Nadu,.24192643
+Krishnagiri,Tamil Nadu,.19458351
+Coimbatore,Tamil Nadu,.22856736
+Tiruppur,Tamil Nadu,.22831824
+Puducherry,Puducherry,.39580753
+Karaikal,Puducherry,.20536205
+Adilabad,Telangana,.20039558
+Komaram Bheem,Telangana,.11587231
+Mancherial,Telangana,.14574993
+Nirmal,Telangana,.11693916
+Nizamabad,Telangana,.18569735
+Jagtial,Telangana,.16954282
+Peddapalli,Telangana,.16110229
+Jayashankar,Telangana,.15967456
+Bhadradri,Telangana,.1860694
+Mahabubabad,Telangana,.17109017
+Warangal Rural,Telangana,.17157342
+Warangal Urban,Telangana,.1726736
+Karimnagar,Telangana,.15674596
+Rajanna,Telangana,.18721364
+Kamareddy,Telangana,.19375086
+Sangareddy,Telangana,.18849179
+Medak,Telangana,.16641659
+Siddipet,Telangana,.19313085
+Jangaon,Telangana,.16725269
+Yadadri,Telangana,.1767039
+Rangareddy,Telangana,.23992051
+Vikarabad,Telangana,.18662322
+Mahbubnagar,Telangana,.24513902
+Jogulamba,Telangana,.19278383
+Wanaparthy,Telangana,.22158247
+Nagarkurnool,Telangana,.2846435
+Nalgonda,Telangana,.21624228
+Suryapet,Telangana,.22916347
+Khammam,Telangana,.2399884
